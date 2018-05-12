@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42706'
     url: http://www.gutenberg.org/2009/agents/42706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45485#The-Sky-Trail
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
